@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prashax
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning to automate things in cybersecurity.
-- 📫 How to reach me ...
 
 
 <!---
