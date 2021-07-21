@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning to automate things in cybersecurity.
 - 📫 How to reach me ...
-l33t.haxor01@gmail.com  
+
 
 <!---
 prashax/prashax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
