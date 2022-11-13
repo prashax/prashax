@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashax
-- 👀 I’m interested in cybersecurity 
+- 👀 Application Security | Web Developer | Love to exploit things on the internet.
 - 🌱 I’m currently learning to automate things in cybersecurity.
 
 
